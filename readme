@@ -1,6 +1,3 @@
-echo "# Johns-hopkins-course-TGG" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/TGRIFF89/Johns-hopkins-course-TGG.git
-git push -u origin master
+# hello world
+
+I am committing this change to practice using git hub
